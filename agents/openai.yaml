@@ -1,3 +1,3 @@
-display_name: WeChat Group Digest PDF
-short_description: Export and summarize authorized local WeChat group chats into privacy-safe public digest PDFs.
-default_prompt: Summarize the specified WeChat group chat history into a privacy-safe public digest PDF for all group members.
+display_name: Group Chat Digest PDF
+short_description: Summarize authorized multi-person chat exports into privacy-safe public digest PDFs.
+default_prompt: Summarize the specified authorized group chat export into a privacy-safe public digest PDF for all members.

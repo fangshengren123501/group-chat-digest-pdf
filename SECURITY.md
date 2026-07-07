@@ -4,21 +4,21 @@ This repository contains a Codex skill instruction file and metadata only.
 
 ## Included
 
-- `SKILL.md`: workflow instructions for summarizing authorized chat exports.
+- `SKILL.md`: workflow instructions for summarizing authorized multi-person chat exports.
 - `agents/openai.yaml`: display metadata for the skill.
 - `README.md`: installation and usage notes.
 
 ## Not Included
 
 - No executable scraper.
-- No WeChat database reader.
+- No chat database reader.
 - No remote-control code.
 - No credentials.
 - No API keys.
 - No private group names.
 - No local file paths.
 - No personal chat logs.
-- No Feishu, Lark, or other private document links.
+- No private shared-document links.
 
 ## Risk Boundary
 
